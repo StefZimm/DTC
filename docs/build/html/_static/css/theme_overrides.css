@@ -1,8 +1,8 @@
 @import url("theme.css");
 
 /* override table width restrictions */
-/*@media only screen and (max-width: 700px) {
-	}*/
+@media only screen and (max-width: 700px) {
+	}
 /*
    .wy-table-responsive table td {
       /* !important prevents the common CSS stylesheets from overriding
@@ -29,25 +29,7 @@
         }
  */
  
-p.first.admonition-title {
-	background-color: #bc2121 !important;
-}
 
- 
- div.admonition.tip {
-	background-color: #fceac7 !important; 
- }
- 
-  .wy-table-responsive table td {
-		white-space: normal !important;
-	}
-	
- .wy-table-responsive {
-    margin-bottom: 24px;
-    max-width: 100%;
-    overflow-x: normal !important;
-}
-    
 
 
 /*Funktioniert*/
