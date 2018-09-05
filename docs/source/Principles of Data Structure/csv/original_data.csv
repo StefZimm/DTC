@@ -1,0 +1,19 @@
+Dataset,Label,Format,Identifier (ID),Special Identifier
+abroad,Questionnaire for people moved abroad,long,"persnr, hhnrakt, syear, hhnr",
+biol,Biographical Data,long,"pid, hid, syear, cid",intid
+ev,First wealth module,wide,"persnr, hhnrakt, hhnr",
+$h,Household questionnaire,wide,"hhnrakt, syear, hhnr",intid
+hl,Household questionnaire,long,"hid, syear, cid",intid
+$h_refugees,Household questionnaire Refugee Sample,wide,"hhnrakt, syear, hhnr",intid
+ghost,East specific questions from the Household questionnaire,wide,"hhnrakt, hhnr",intid
+$jugend,Youth questionnaire for first time respondents at age 17,wide,"persnr, hhnrakt, syear, hhnr",intid 
+jugendl,Youth questionnaire for first time respondents at age 18,long,"pid, hid, syear, cid",intid
+$p,Personal questionnaire,wide,"persnr, hhnrakt, syear, hhnr",intid
+pl,Personal questionnaire,long,"pid, hid, syear, cid",intid
+$p_mig,IAB-SOEP Migration Sample: Original Individual questionnaire,wide,"pid, hid, syear, cid",intid
+$p_refugees,"Personal questionnaire Refugee Sample, incl. Biography",wide,"persnr, hhnrakt, syear, hhnr",intid
+$pausl,Migrant specific questions in the Personal Questionnaire,wide,"persnr, hhnrakt, hhnr",
+$pluecke,Follow-Up Questioning,wide,"persnr, hhnrakt, hhnr",intid
+$school,"Questionnaire: Early Youth, 12-13 years old",wide,"persnr, hhnrakt, syear, hhnr",intid 
+$school2,"Questionnaire: Early Youth, 14-15 years old",wide,"persnr, hhnrakt, syear, hhnr",intid
+$vp,Questionnaire: the deceased person,wide,"persnr, hhnrakt, syear, hhnr","vpersnr, intid"

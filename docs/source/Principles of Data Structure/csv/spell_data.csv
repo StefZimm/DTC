@@ -1,0 +1,12 @@
+Dataset,Label,Format,spellnr,Special Identifier
+artkalen,Spell data from the activity calendar,wide,"persnr, hhnr",
+biocouplm,Generated biographical information,long,"persnr, hhnr",coupid
+biocouply,Generated biographical information,long,"persnr, hhnr",
+biomarsm,Generated biographical information,long,"persnr, hhnr",
+biomarsy,Generated biographical information,long,"persnr, hhnr",
+einkalen,[deprecated] Spell data on income,long,"persnr, hhnr",
+lifespell,Spell Information on the Pre- and Post-Survey History of SOEP-Respondents,long,"persnr, hhnr",
+migspell,Migration history,long,"persnr, hhnr",
+pbiospe,Generated biographical information,long,"persnr, hhnr",
+refugspell,Migration history,long,"persnr, hhnr",
+sozkalen,[deprecated] Spell data on social benefits,long,"hhnrakt, hhnr",

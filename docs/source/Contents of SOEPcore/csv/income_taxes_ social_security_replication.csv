@@ -1,0 +1,11 @@
+Topics,Module,Replication,Number of variables,Variables
+,"Labour income, hourly wage",2017,,
+,Earnings Work October 2014,2015,2,"`plb0584 <https://paneldata.org/soep-long/data/pl/plb0584>`_ , `plb0585 <https://paneldata.org/soep-long/data/pl/plb0585>`_"
+,Balance sheet of assets,"1988, 2002, 2007, 2012, 2017",67,"`plc0315 <https://paneldata.org/soep-long/data/pl/plc0315>`_ - `plc0319 <https://paneldata.org/soep-long/data/pl/plc0319>`_ ,  `plc0328 <https://paneldata.org/soep-long/data/pl/plc0328>`_ -  `plc0374 <https://paneldata.org/soep-long/data/pl/plc0374>`_ ,  `plc0411 <https://paneldata.org/soep-long/data/pl/plc0411>`_ - `plc0425 <https://paneldata.org/soep-long/data/pl/plc0425>`_"
+,Inheritance,"2001,2017",33,`plc0375 <https://paneldata.org/soep-long/data/pl/plc0375>`_ - `plc0407 <https://paneldata.org/soep-long/data/pl/plc0407>`_  
+,"Transfer payments, income","2009, 2010, 2011",21,`plj0152 <https://paneldata.org/soep-long/data/pl/plj0152>`_- `plj0172 <https://paneldata.org/soep-long/data/pl/plj0172>`_
+,Social security,"1987, 1992, 1997, 2007, 2012, 2017",7,"`plc0008 <https://paneldata.org/soep-long/data/pl/plc0008>`_,  `plc0009 <https://paneldata.org/soep-long/data/pl/plc0009>`_,  `plc0111 <https://paneldata.org/soep-long/data/pl/plc0111>`_- `plc0115 <https://paneldata.org/soep-long/data/pl/plc0115>`_"
+,"Entitlements, statutory",2013,4,`plc0432 <https://paneldata.org/soep-long/data/pl/plc0008>`_- `plc0435 <https://paneldata.org/soep-long/data/pl/plc0435>`_
+,Riester,"2004, 2006, 2007, 2010, 2012, 2013, 2015, 2017",3,"`plc0430 <https://paneldata.org/soep-long/data/pl/plc0430>`_ ,  `plc0431 <https://paneldata.org/soep-long/data/pl/plc0431>`_ ,  `plc0313 <https://paneldata.org/soep-long/data/pl/plc0313>`_"
+,Riester payments,2013,3,`plc0437 <https://paneldata.org/soep-long/data/pl/plc0437>`_ - `plc0439 <https://paneldata.org/soep-long/data/pl/plc0439>`_
+,"Entitlements, company",2013,5,`plc0441 <https://paneldata.org/soep-long/data/pl/plc0441>`_ - `plc0445 <https://paneldata.org/soep-long/data/pl/plc0445>`_

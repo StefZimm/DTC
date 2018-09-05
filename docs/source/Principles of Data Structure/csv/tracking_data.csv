@@ -1,0 +1,10 @@
+Dataset,Label,Format,Identifier (ID),Special Identifier
+hpfad,Household Tracking File,wide,"hhnrakt, $hhnr",
+hpfadl,Household Tracking File,long,"hid, syear, cid",
+$hbrutto,Gross Household Data,wide,"hhnrakt, hhnr","intid1, intid"
+hbrutto,Gross Household Data,long,"hid, syear, cid","intid1, intid"
+pbr_exit,Cumulated Exit,long,"pid, hid, syear, cid",hhnrold
+$pbrutto,Gross Individual Data,wide,"persnr, hhnrakt, hhnr",$hhnrold
+pbrutto,Gross Individual Data,long,"pid, hid,  syear,  cid  ","intid, hhnrold"
+ppfad,Individual Tracking File,wide,"persnr, hhnr, $hhnr, ",
+ppfadl,Individual Tracking File,long,"pid, hid, syear, cid",parid

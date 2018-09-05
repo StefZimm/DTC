@@ -1,0 +1,7 @@
+Topics,Module,Replication,Number of variables,Variables
+family networks - outside own household [fno],Family Network,"1991, 1996, 2001, 2006, 2011, 2016",43,`pld0020 <https://paneldata.org/soep-long/data/pl/pld0020>`_ -  `pld0036 <https://paneldata.org/soep-long/data/pl/pld0036>`_ &  `pld0107 <https://paneldata.org/soep-long/data/pl/pld0107>`_ - `pld0118 <https://paneldata.org/soep-long/data/pl/pld0118>`_ & `plj0117 <https://paneldata.org/soep-long/data/pl/plj0117>`_ -  `plj0130 <https://paneldata.org/soep-long/data/pl/plj0130>`_ 
+networks - three friends [ntf],"Networks, trusted person","1991, 1996, 2001, 2006, 2011, 2016",29,`pld0089 <https://paneldata.org/soep-long/data/pl/pld0089>`_ -  `pld0088 <https://paneldata.org/soep-long/data/pl/pld0088>`_ &  `plf0049 <https://paneldata.org/soep-long/data/pl/plf0049>`_ - `plf0050 <https://paneldata.org/soep-long/data/pl/plf0050>`_ 
+networks - three friends [ntf],"Networks, sociodemography ","2006, 2011, 2016",18,`pld0089 <https://paneldata.org/soep-long/data/pl/pld0089>`_ -  `pld0106 <https://paneldata.org/soep-long/data/pl/pld0106>`_
+number of friends [frn],"2003, 2008, 2011, 2013, 2015, 2017, 2018",,1,`pld0047 <https://paneldata.org/soep-long/data/pl/pld0047>`_ 
+sex [sex],LGBT Status,2016,1,`pld0298 <https://paneldata.org/soep-long/data/pl/pld0298>`_ 
+?,Gender Attitudes,2018,8,

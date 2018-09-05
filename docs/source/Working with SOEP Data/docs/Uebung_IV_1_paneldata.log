@@ -1,0 +1,118 @@
+------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  H:\Clone\Website-Relaunch\Relaunch\DTC\docs\source\Working with SOEP Data\docs\Uebu
+> ng_IV_1_paneldata.log
+  log type:  text
+ opened on:   4 Jul 2018, 16:31:51
+
+. set more off
+
+. clear
+
+. 
+. ** * * NOT PROCESSED * * *
+. 
+. 
+. 
+. * * * PFAD * * *
+. 
+. use hhnr persnr sex gebjahr psample xhhnr xnetto xpop yhhnr ynetto ypop whhnr wnetto wpop usin
+> g "${MY_PATH_IN}ppfad.dta"
+(SOEP.v32@school: ppfad.dta)
+
+. 
+. 
+. * * * BALANCED VS UNBALANCED * * *
+. 
+. keep if ( (xnetto >= 10 & xnetto < 20) | (ynetto >= 10 & ynetto < 20) | (wnetto >= 10 & wnetto
+>  < 20) )
+(44,014 observations deleted)
+
+. 
+. 
+. * * * PRIVATE VS ALL HOUSEHOLDS * * *
+. 
+. keep if ( (xpop == 1 | xpop == 2) | (ypop == 1 | ypop == 2) | (wpop == 1 | wpop == 2) )
+(67 observations deleted)
+
+. 
+. 
+. * * * SORT PPFAD * * *
+. 
+. sort persnr
+
+. save "${MY_PATH_OUT}ppfad.dta", replace
+file Z:\MA\skara\Webseite\Übungen DTC\ppfad.dta saved
+
+. clear
+
+. 
+. 
+. * * * PHRF (Personen-Hochrechnungsfaktor) ***
+. 
+. use "${MY_PATH_IN}phrf.dta"
+(SOEP.v32@school: phrf.dta)
+
+. sort persnr
+
+. save "${MY_PATH_OUT}phrf.dta", replace
+file Z:\MA\skara\Webseite\Übungen DTC\phrf.dta saved
+
+. clear
+
+. 
+. 
+. * * * Personen 2006 * * *
+. use persnr wp0101 wp9301 using "${MY_PATH_IN}wp.dta"
+(SOEP.v32@school: wp.dta)
+
+. sort persnr
+
+. save "${MY_PATH_OUT}wp.dta", replace
+file Z:\MA\skara\Webseite\Übungen DTC\wp.dta saved
+
+. clear
+
+. 
+. * * * Personen 2007 * * *
+. use persnr xp0101 using "${MY_PATH_IN}xp.dta"
+(SOEP.v32@school: xp.dta)
+
+. sort persnr
+
+. save "${MY_PATH_OUT}xp.dta", replace
+file Z:\MA\skara\Webseite\Übungen DTC\xp.dta saved
+
+. clear
+
+. 
+. * * * Personen 2008 * * *
+. use persnr yp0101 yp10601 using "${MY_PATH_IN}yp.dta"
+(SOEP.v32@school: yp.dta)
+
+. sort persnr
+
+. save "${MY_PATH_OUT}yp.dta", replace
+file Z:\MA\skara\Webseite\Übungen DTC\yp.dta saved
+
+. clear
+
+. 
+. 
+. * ppfadl laden
+. use "${MY_PATH_OUT}pfad.dta", clear
+(SOEP.v32@school: ppfad.dta)
+
+. 
+. merge 1:1 persnr using "${MY_PATH_OUT}phrf.dta", keep(master match) nogen
+(pathsplit() in lmatabase, compiled by Stata 14.2, is too new to be run by this version of Stata
+and so was ignored)
+          fullfilename():  3499  pathsplit() not found
+                 <istmt>:     -  function returned error
+r(3499);
+
+end of do-file
+
+r(3499);
+
+. exit, clear

@@ -1,0 +1,34 @@
+Dataset,Label,Format,Identifier (ID),Special Identifier
+bioage17,Generated biographical youth information,wide,"persnr, hhnrakt, syear, hhnr","bymnr, byvnr, intid"
+bioagel,Generated biographical information,long,"persnr, hhnrakt, syear, hhnr",persnre
+biobirth,Generated biographical information,wide,"persnr, hhnr ",kidpnr01-kidpnr15
+bioedu,Generated biographical information,wide,"persnr, hhnr ",
+bioimmig,Generated biographical information,long,"persnr, hhnrakt, syear, hhnr",
+biojob,Generated biographical information,wide,"persnr, hhnr ",
+bioresid,Generated biographical information,wide,"persnr, hhnrakt, syear, hhnr",intid
+biosib,Generated biographical information,wide,"persnr, hhnr ",sibpnr1-sibpnr11
+biosoc,Generated biographical information,wide,"persnr, hhnrakt, syear, hhnr",intid
+biotwin,Generated biographical information,wide,"persnr, hhnr ","pnrtwin, pnrtrip, pnrquad"
+camces,"Highest Educational Qualification, Migrants Sample M1 and M2",wide,"persnr, hhnrakt, syear, hhnr",
+cogdj,Data on cognitive tests (Youth),wide,"persnr, syear, hhnr",
+cognit,Data on cognitive potential,wide,"persnr, syear, hhnr",intid
+gripstr,Measures grip strength,wide,"persnr, syear, hhnr",intid
+hconsum,Hosehold Consume Module,wide,"hhnrakt, syear, hhnr",
+health,Data on health indicators,wide,"persnr, syear, hhnr",
+$hgen,Generated Household Data,wide,"hhnrakt, hhnr",
+hgen,Generated Household Data,long,hid syear cid,
+hwealth,Wealth Module,long,"hhnrakt, syear, hhnr",
+interviewer,Data on the SOEP Interviewer,long,"hhnr, syear",intid
+kidlong,Data on children,long,"persnr, hhnrakt, syear, hhnr",
+$kind,Data on children (from HH-Questionnaire),wide,"persnr, hhnrakt, hhnr",
+mihinc,Multiple imputed data on monthly household income,long,"hhnrakt, syear, hhnr",
+$pequiv,Cross-national Equivalent File,wide,"persnr, hhnrakt, syear, hhnr",
+pflege,Persons needing care within the household,long,"persnr, syear, hhnr",
+$pgen,Generated Individual Data,wide,"persnr, hhnrakt, hhnr",
+pgen,Generated Individual Data,long,"pid, hid, syear, cid",
+$pkal,Individual Calendar,wide,"persnr, hhnrakt, hhnr",
+pkal,Individual Calendar,long,"pid, hid, syear, cid",
+$pkalost,Individual Calender ,wide,"persnr, hhnrakt, hhnr",
+pwealth,Wealth Module,long,"persnr, hhnrakt, syear",
+timepref,Experiment on time preferences,wide,"persnr, hhnrakt, syear, hhnr",
+trust,Experiment on trust,long,"persnr, hhnrakt, syear, hhnr",

@@ -1,0 +1,17 @@
+Topics,Module,Replication,Number of variables,Variables
+illnesses diagnosed by doctor [idd],Ilness,"2009, 2011, 2013, 2015, 2017",14,`ple0011 <https://paneldata.org/soep-long/data/pl/ple0011>`_ –  `ple0024 <https://paneldata.org/soep-long/data/pl/ple0024>`_
+sf-12 questionnaire [sft],stress and exhaustion (SF-12),2002 - 2018 (every two years),10,`ple0026 <https://paneldata.org/soep-long/data/pl/ple0026>`_ –  `ple0036 <https://paneldata.org/soep-long/data/pl/ple0036>`_
+health condition [hco],Disabilities in everyday life (SF-12),"1997-2002, 2004-2018 (every two years)",2,`ple0004 <https://paneldata.org/soep-long/data/pl/ple0004>`_ –  `ple0005 <https://paneldata.org/soep-long/data/pl/ple0005>`_
+health condition [hco],Height and Weight,2002 - 2018 (every two years),2,`ple0006 <https://paneldata.org/soep-long/data/pl/ple0006>`_ –  `ple0007 <https://paneldata.org/soep-long/data/pl/ple0007>`_
+sf-12 questionnaire [sft],Chronicall Illness,"1984-1989, 1991, 2009, 2010, 2012, 2014, 2016, 2018",1,`ple0036 <https://paneldata.org/soep-long/data/pl/ple0036>`_ 
+health condition [hco],health restrictions,"2011, 2012, 2013, 2015, 2017",2,`ple0009 <https://paneldata.org/soep-long/data/pl/ple0009>`_ &  `ple0162 <https://paneldata.org/soep-long/data/pl/ple0162>`_
+?,health insurance debts,2017,1,
+tabacco use [tab],smoking,"1998, 1999, 2001, 2002-2018 (every two years)",6,`ple0081 <https://paneldata.org/soep-long/data/pl/ple0081>`_  & `ple0086 <https://paneldata.org/soep-long/data/pl/ple0086>`_ -  `ple0088 <https://paneldata.org/soep-long/data/ple0088>`_ &  `ple0176 <https://paneldata.org/soep-long/data/pl/ple0176>`_
+alcohol use [alc],alcoholic beverages,"2006, 2008, 2010, 2016",2,`ple0177 <https://paneldata.org/soep-long/data/pl/ple0177>`_ –  `ple0178 <https://paneldata.org/soep-long/data/pl/ple0178>`_
+?,nutritional awareness,2004-2016 (every two years),4,`ple0179 <https://paneldata.org/soep-long/data/pl/ple0179>`_ –  `ple0182 <https://paneldata.org/soep-long/data/pl/ple0182>`_
+type of health insurance [tin],assisted or curative care,1999-2011,1,`ple0121 <https://paneldata.org/soep-long/data/pl/ple0121>`_ 
+type of health insurance [tin],additional private insurance,"2011-2014, 2016, 2018",8,`ple0127 <https://paneldata.org/soep-long/data/pl/ple0127>`_ –  `ple0134 <https://paneldata.org/soep-long/data/pl/ple0134>`_
+?,Private supplementary care insurance,"2016,2018",3,`ple0183 <https://paneldata.org/soep-long/data/pl/ple0183>`_ –  `ple0185 <https://paneldata.org/soep-long/data/pl/ple0185>`_
+?,Insurance status,2018,,
+invalidity - severe disability [isd],type of disability,"2001, 2002, 2004, 2006, 2008, 2010, 2015",2,`ple0140 <https://paneldata.org/soep-long/data/pl/ple0140>`_ –  `ple0141 <https://paneldata.org/soep-long/data/pl/ple0141>`_
+?,individual health service,"2016,2018",1,`ple0186 <https://paneldata.org/soep-long/data/pl/ple0186>`_ 

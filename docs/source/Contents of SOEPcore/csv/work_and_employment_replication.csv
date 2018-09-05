@@ -1,0 +1,43 @@
+Topics,Module,Replication,Number of variables,Variables
+,Illegal Employment,"2015,2016",2,"`plb0571 <https://paneldata.org/soep-long/data/pl/plb0571>`_ , `plb0572 <https://paneldata.org/soep-long/data/pl/plb0572>`_"
+,Intensity of work,"2015, 2016, 2017",2,"`plb0593 <https://paneldata.org/soep-long/data/pl/plb0593>`_,  `plb0594 <https://paneldata.org/soep-long/data/pl/plb0594>`_"
+,Work equipment,"2015, 2016, 2017",6,`plb0595 <https://paneldata.org/soep-long/data/pl/plb0595>`_-  `plb0600 <https://paneldata.org/soep-long/data/pl/plb0600>`_
+,Work breaks,"2015, 2016, 2017",3,`plb0601 <https://paneldata.org/soep-long/data/pl/plb0595>`_- `plb0603 <https://paneldata.org/soep-long/data/pl/plb0603>`_
+,Employment October 2014,2015,1,`plb0574 <https://paneldata.org/soep-long/data/pl/plb0574>`_
+,Work breaks October 2014,2015,4,`plb0575 <https://paneldata.org/soep-long/data/pl/plb0575>`_ - `plb0578 <https://paneldata.org/soep-long/data/pl/plb0578>`_
+,Working time October 2014,2015,3,`plb0579 <https://paneldata.org/soep-long/data/pl/plb05795>`_ - `plb0581 <https://paneldata.org/soep-long/data/pl/plb0581>`_
+,Overtime October 2014,2015,2,"`plb0582 <https://paneldata.org/soep-long/data/pl/plb0582>`_ ,  `plb0583 <https://paneldata.org/soep-long/data/pl/plb0583>`_"
+,Lifelong learning,2014,1,`plg0266 <https://paneldata.org/soep-long/data/pl/plg0266>`_
+,"Continuing education, initiative","1989, 1993, 2000, 2004, 2008, 2014",2,"`plg0273 <https://paneldata.org/soep-long/data/pl/plg0273>`_ ,  `plg0274 <https://paneldata.org/soep-long/data/pl/plg0274>`_"
+,"Further training, financing","1989, 1993, 2000, 2004, 2008, 2014, 2015, 2017",7,`plg0285 <https://paneldata.org/soep-long/data/pl/plg0285>`_ - `plg0291 <https://paneldata.org/soep-long/data/pl/plg0291>`_
+,"Further education, organizer",,1,
+,"Continuing education, reasons for failure","1989, 1993, 2000, 2004, 2014",5,`plg0277 <https://paneldata.org/soep-long/data/pl/plg0277>`_ –  `plg0281 <https://paneldata.org/soep-long/data/pl/plg0281>`_ 
+,"Further education, course details and motives","1989, 1993, 2000, 2004, 2008",60,"plg0108-plg0122, plg0129-plg0149, plg0152, plg0154, plg0164, plg0165, plg0169, plg0171, plg0172, plg0174-plg0177, plg0182-plg0186"
+,"Benefits from employer, additional benefits","2008, 2010, 2012, 2014-2017",14,`plc0026 <https://paneldata.org/soep-long/data/pl/plc0026>`_ - `plc0039 <https://paneldata.org/soep-long/data/pl/plc0039>`_
+,"Benefits from employer, company car","2016,2017",1,`plc0532 <https://paneldata.org/soep-long/data/pl/plc0532>`_
+,Work time regulation,"2003, 2005, 2007, 2009, 2011, 2014-2017",1,`plb0211 <https://paneldata.org/soep-long/data/pl/plb0211>`_
+,Standby duty,"2011, 2014-2017",4,`plb0212 <https://paneldata.org/soep-long/data/pl/plb0212>`_- `plb0215 <https://paneldata.org/soep-long/data/pl/plb0215>`_
+,Work time recording,,,
+,"Overtime, compensation",1984-2014,1,`plb0195 <https://paneldata.org/soep-long/data/pl/plb0195>`_
+,Start of working hours,"2002, 2004, 2006, 2008, 2012, 2015, 2017",3,`plb0180 <https://paneldata.org/soep-long/data/pl/plb0180>`_- `plb0182 <https://paneldata.org/soep-long/data/pl/plb0182>`_
+,Evening - Weekend work,"2005, 2007, 2009, 2011, 2013, 2015, 2017",4,`plb0216 <https://paneldata.org/soep-long/data/pl/plb0216>`_- `plb0219 <https://paneldata.org/soep-long/data/pl/plb0219>`_
+,Contract to Provide Specific Services (Werkvertrag),"2013,2015",1,`plb0482 <https://paneldata.org/soep-long/data/pl/plb0482>`_
+,Wage Tax Classification,"1991, 1993, 2004, 2016",1,`plc0091 <https://paneldata.org/soep-long/data/pl/plc0091>`_
+,"Exercised profession, training","1984-2014, 2016",4,`plb0076 <https://paneldata.org/soep-long/data/pl/plb0076>`_- `plb0079 <https://paneldata.org/soep-long/data/pl/plb0079>`_
+,Commuter Module,"1991-2013, 2015, 2017",6,"`plb0589 <https://paneldata.org/soep-long/data/pl/plb0589>`_-  `plb0592 <https://paneldata.org/soep-long/data/pl/plb0592>`_,   `plb0158 <https://paneldata.org/soep-long/data/pl/plb0158>`_,  `plb0159 <https://paneldata.org/soep-long/data/pl/plb0159>`_"
+,Vacation claim,"2000, 2005, 2010",8,`plb0269 <https://paneldata.org/soep-long/data/pl/plb0269>`_- `plb0276 <https://paneldata.org/soep-long/data/pl/plb0276>`_
+,Work from home,"1997, 1999,  2002, 2009, 2014",3,`plb0095 <https://paneldata.org/soep-long/data/pl/plb0095>`_- `plb0097 <https://paneldata.org/soep-long/data/pl/plb0097>`_
+,Short-time allowance (Kurzarbeitergeld),"1984-2001, 2003-2005, 2010, 2011, ",2,"`plc0057 <https://paneldata.org/soep-long/data/pl/plc0057>`_ ,  `plc0058 <https://paneldata.org/soep-long/data/pl/plc0058>`_"
+,Performance evaluation in the company,"2004, 2008, 2011, 2016",5,`plb0098 <https://paneldata.org/soep-long/data/pl/plb0099>`_- `plb0102 <https://paneldata.org/soep-long/data/pl/plb0102>`_
+,Leading position,"2007, 2009, 2011, 2013, 2015, 2017",3,`plb0067 <https://paneldata.org/soep-long/data/pl/plb0067>`_-  `plb0069 <https://paneldata.org/soep-long/data/pl/plb0069>`_
+,Wage justice,"2005, 2007, 2009, 2011, 2013, 2015, 2017",6,"`plh0138 <https://paneldata.org/soep-long/data/pl/plh0138>`_-  `plh0141 <https://paneldata.org/soep-long/data/pl/plh0141>`_ ,  `plh0337 <https://paneldata.org/soep-long/data/pl/plh0337>`_ ,  `plh0338 <https://paneldata.org/soep-long/data/pl/plh0338>`_"
+,Workload (Effort-Reward-Inbalance),"2001, 2006, 2011, 2016",26, `plb0112 <https://paneldata.org/soep-long/data/pl/plb0112>`_- `plb0137 <https://paneldata.org/soep-long/data/pl/plb0137>`_
+,"Professional expectations, long","1985, 1987, 1989, 1991, 1993, 1994, 1996, 1998, 2000, 2005, 2009, 2013",11,`plb0432 <https://paneldata.org/soep-long/data/pl/plb0432>`_- `plb0442 <https://paneldata.org/soep-long/data/pl/plb0442>`_
+,"Professional expectations, short",2015,5,"`plb0433 <https://paneldata.org/soep-long/data/pl/plb0433>`_,  `plb0437 <https://paneldata.org/soep-long/data/pl/plb0437>`_,  `plb0440 <https://paneldata.org/soep-long/data/pl/plb0440>`_,  `plb0588 <https://paneldata.org/soep-long/data/pl/plb0588>`_"
+,Employee organization (Betriebsrat),"2001,2006, 2011, 2016",1,`plb0050 <https://paneldata.org/soep-long/data/pl/plb0050>`_
+,"Occupational qualification, use","1985-2007, 2009",1,`plb0357 <https://paneldata.org/soep-long/data/pl/plb0357>`_
+,"Self-employment, reasons","2010,2015",6,`plb0333 <https://paneldata.org/soep-long/data/pl/plb0333>`_- `plb0338 <https://paneldata.org/soep-long/data/pl/plb0338>`_
+,Postcode of the place of work,2016,,
+,"Occupational expectations, non-workers","1999, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015",3,`plb0427 <https://paneldata.org/soep-long/data/pl/plb0427>`_- `plb0429 <https://paneldata.org/soep-long/data/pl/plb0429>`_
+,"Job search, preferences","1994, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2015, 2017",1,`plb0426 <https://paneldata.org/soep-long/data/pl/plb0426>`_
+,"Job search, motives","1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2003, 2005, 2007, 2009, 2011, 2013, 2017",1,`plb0111 <https://paneldata.org/soep-long/data/pl/plb0111>`_

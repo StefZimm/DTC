@@ -1,0 +1,83 @@
+Dataset,Label,Type,Format,Primary Identifier
+hpfad,Household Tracking File,tra,wide,hhnrakt
+hpfadl,Household Tracking File,tra,long,"hid, syear"
+$hbrutto,Gross Household Data,tra,wide,hhnrakt
+hbrutto,Gross Household Data,tra,long,"hid, syear"
+pbr_exit,Cumulated Exit,tra,long,"hid, syear"
+$pbrutto,Gross Individual Data,tra,wide,persnr
+ppfad,Individual Tracking File,tra,wide,persnr
+ppfadl,Individual Tracking File,tra,long,"pid, syear"
+,,,,
+abroad,Questionnaire for people moved abroad,org,long,"persnr, syear"
+biol,Biographical Data,org,long,"pid, syear"
+ev,First wealth module,org,wide,persnr
+$h,Household questionnaire,org,wide,hhnrakt
+hl,Household questionnaire,org,long,"hid, syear"
+$h_refugees,Household questionnaire Refugee Sample,org,wide,hhnrakt
+ghost,East specific questions from the Household questionnaire,org,wide,hhnrakt
+$jugend,Youth questionnaire for first time respondents at age 17,org,wide,persnr
+jugendl,Youth questionnaire for first time respondents at age 18,org,long,"pid, syear"
+$p,Personal questionnaire,org,wide,persnr
+pl,Personal questionnaire,org,long,"pid, syear"
+$p_mig,IAB-SOEP Migration Sample: Original Individual questionnaire,org,wide,persnr
+$p_refugees,"Personal questionnaire Refugee Sample, incl. Biography",org,wide,persnr
+$pausl,Migrant specific questions in the Personal Questionnaire,org,wide,persnr
+$pluecke,Follow-Up Questioning,org,wide,persnr
+$school,"Questionnaire: Early Youth, 12-13 years old",org,wide,persnr
+$school2,"Questionnaire: Early Youth, 14-15 years old",org,wide,persnr
+$vp,Questionnaire: the deceased person,org,wide,???
+,,,,
+csamp,Sample Definition,survey,long,csample
+cdesign,Survey Desingn,survey,??,??
+design,Survey Design,survey ,wide,hhnr
+exit,Cumulative drop-outs,survey,wide,persnr
+hhrf,Weighting and staying probabilities,survey,wide,hhnrakt
+pbr_hhch,PBR_HHCH,survey,wide,persnr
+phrf,Weighting and staying probabilities,survey,wide,persnr
+,,,,
+bioage17,Generated biographical youth information,gen,wide,persnr
+bioagel,Generated biographical information,gen,long,persnre ???
+biobirth,Generated biographical information,gen,wide,persnr
+bioedu,Generated biographical information,gen,wide,persnr
+bioimmig,Generated biographical information,gen,long,"persnr, syear"
+biojob,Generated biographical information,gen,wide,persnr
+bioresid,Generated biographical information,gen,wide,persnr
+biosib,Generated biographical information,gen,wide,persnr
+biosoc,Generated biographical information,gen,wide,persnr
+biotwin,Generated biographical information,gen,wide,persnr
+camces,"Highest Educational Qualification, Migrants Sample M1 and M2",gen,wide,persnr
+cogdj,Data on cognitive tests (Youth),gen,wide,persnr
+cognit,Data on cognitive potential,gen,wide,persnr
+gripstr,Measures grip strength,gen,wide,persnr
+hconsum,Hosehold Consume Module,gen,wide,hhnrakt
+health,Data on health indicators,gen,wide,persnr
+$hgen,Generated Household Data,gen,wide,hhnrakt
+hgen,Generated Household Data,gen,long,"hid, syear"
+hwealth,Wealth Module,gen,long,hhnrakt
+interviewer,Data on the SOEP Interviewer,gen,long,???
+kidlong,Data on children,gen,long,"persnr, syear"
+$kind,Data on children (from HH-Questionnaire),gen,wide,persnr
+mihinc,Multiple imputed data on monthly household income,gen ,long,hhnrakt
+$pequiv,Cross-national Equivalent File,gen,wide,"pid, syear"
+pflege,Persons needing care within the household,gen,long,"persnr, syear"
+$pgen,Generated Individual Data,gen,wide,persnr
+pgen,Generated Individual Data,gen,long,"pid, syear"
+$pkal,Individual Calendar,gen,wide,persnr
+pkal,Individual Calendar,gen,long,"pid, syear"
+$pkalost,Individual Calender ,gen,wide,persnr
+pwealth,Wealth Module,gen,long,"persnr, syear"
+timepref,Experiment on time preferences,gen,wide,persnr
+trust,Experiment on trust,gen,long,"persnr, syear"
+,,,,
+,,,,
+artkalen,Spell data from the activity calendar,gen,wide,persnr
+biocouplm,Generated biographical information,gen,long,persnr
+biocouply,Generated biographical information,gen,long,persnr
+biomarsm,Generated biographical information,gen,long,persnr
+biomarsy,Generated biographical information,gen,long,persnr
+einkalen,[deprecated] Spell data on income,gen,long,persnr
+lifespell,Spell Information on the Pre- and Post-Survey History of SOEP-Respondents,gen,long,persnr
+migspell,Migration history,gen,long,persnr
+pbiospe,Generated biographical information,gen,long,persnr
+refugspell,Migration history,gen,long,persnr
+sozkalen,[deprecated] Spell data on social benefits,gen,long,hhnrakt

@@ -1,0 +1,18 @@
+Topics,Module,Replication,Number of variables,Variables
+identification [idn],Integration Indicators,"1997, 1999, 2001, 2003, 2010, 2012, 2014, 2016, 2018",2, `plj0078 <https://paneldata.org/soep-long/data/pl/plj0078>`_ & `plj0080 <https://paneldata.org/soep-long/data/pl/plj0080>`_ 
+cultural integration / language [cil],native tongue,"2007-2011, 2013, 2015, 2017",8,`plj0009 <https://paneldata.org/soep-long/data/pl/plj0009>`_ &  `plj0691 <https://paneldata.org/soep-long/data/pl/plj0691>`_ -  `plj0693 <https://paneldata.org/soep-long/data/pl/plj0693>`_ & `plj0071 <https://paneldata.org/soep-long/data/pl/plj0071>`_ -  `plj0073 <https://paneldata.org/soep-long/data/pl/plj0073>`_ &  `plj0077 <https://paneldata.org/soep-long/data/pl/plj0077>`_
+cultural integration / language [cil],"contact, at home and abroad",1997-2017 (every two yeras),4,`plj0060 <https://paneldata.org/soep-long/data/pl/plj0060>`_ -  `plj0063 <https://paneldata.org/soep-long/data/pl/plj0063>`_
+own nationality [ona],Citizenship Application,1998-2018 (every two years),1,`plj0021 <https://paneldata.org/soep-long/data/pl/plj0021>`_ 
+,"Residence status, citizenship",2018,2,
+intentions to stay / desires to return [its],intention to stay,"1997-2011, 2013, 2015, 2017",4,`plj0085 <https://paneldata.org/soep-long/data/pl/plj0085>`_ -  `plj0088 <https://paneldata.org/soep-long/data/pl/plj0088>`_
+discrimination / attitude toward migrants [dis],disadvantages due to origin (short),"1997-2011, 2013, 2017",1,`plj0048 <https://paneldata.org/soep-long/data/pl/plj0048>`_
+discrimination / attitude toward migrants [dis],disadvantages due to origin (area),2015,15,`plj0048 <https://paneldata.org/soep-long/data/pl/plj0048>`_ &  `plj0327 <https://paneldata.org/soep-long/data/pl/plj0327>`_ -  `plj0340 <https://paneldata.org/soep-long/data/pl/plj0340>`_ 
+cultural integration / language [cil],"linguistic usage, newspaper",1996-2012 (every two years),1,`plj0070 <https://paneldata.org/soep-long/data/pl/plj0070>`_
+cultural integration / language [cil],"linguistic usage, media","2014, 2016, 2018",1,`plj0226 <https://paneldata.org/soep-long/data/pl/plj0226>`_
+transnational relationships [trr],visit country of origin last 2 years,1996-2018 (every two years),2,`plj0322 <https://paneldata.org/soep-long/data/pl/plj0322>`_ &  `plj0323 <https://paneldata.org/soep-long/data/pl/plj0323>`_
+identification [idn],sense of home,1996-2014 (every two years),2,`plj0083 <https://paneldata.org/soep-long/data/pl/plj0083>`_ &  `plj0340 <https://paneldata.org/soep-long/data/pl/plj0340>`_
+inner-german migration [igm],regional attachment,"2009,2014",3,`plj0343 <https://paneldata.org/soep-long/data/pl/plj0343>`_ -  `plj0345 <https://paneldata.org/soep-long/data/pl/plj0345>`_
+"transnational relationships [trr]
+general intentions to emigrate [gie]",Contacts and thoughts abroad,"2009,2014",6,`plj0104 <https://paneldata.org/soep-long/data/pl/plj0104>`_ &  `plj0105 <https://paneldata.org/soep-long/data/pl/plj0105>`_ &  `plj0089 <https://paneldata.org/soep-long/data/pl/plj0089>`_ - `plj0092 <https://paneldata.org/soep-long/data/pl/plj0071>`_
+interethnic contacts / segregation [ics],"Circle of Friends, Share of Migrants","2013,2018",1,`plj0191 <https://paneldata.org/soep-long/data/pl/plj0191>`_ 
+cultural integration / language [cil],foreign language skills,2013,1,`plm0135 <https://paneldata.org/soep-long/data/pl/plm0135>`_

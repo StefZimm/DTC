@@ -1,0 +1,7 @@
+Dataset,Label,Format,Identifier (ID),Special Identifier
+csamp,Sample Definition,long,cid,
+design,Survey Design,wide,hhnr ,intid
+exit,Cumulative drop-outs,wide,"persnr, hhnr, syear",
+hhrf,Weighting and staying probabilities,wide,"hhnrakt, hhnr",
+pbr_hhch,PBR_HHCH,wide,"persnr, hhnrakt, syear, hhnr ","pnralt, pnrneu, hhnrold"
+phrf,Weighting and staying probabilities,wide,"persnr, hhnr",
