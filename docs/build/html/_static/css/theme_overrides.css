@@ -29,7 +29,25 @@
         }
  */
  
+p.first.admonition-title {
+	background-color: #bc2121 !important;
+}
 
+ 
+ div.admonition.tip {
+	background-color: #fceac7 !important; 
+ }
+ 
+  .wy-table-responsive table td {
+		white-space: normal !important;
+	}
+	
+ .wy-table-responsive {
+    margin-bottom: 24px;
+    max-width: 100%;
+    overflow-x: normal !important;
+}
+    
 
 
 /*Funktioniert*/
