@@ -3,7 +3,6 @@ Contents of SOEPcore
 
 The SOEP started in 1984 as a longitudinal survey of private households in the Federal Republic of Germany. The central aim then and now is to collect representative micro-data to measure stability and change in living conditions by following a micro-economic approach enriched with variables from sociology and political science (influenced by the “Social Indicator” movement). Therefore the central survey instruments are a household questionnaire, which is responded by the head of a household and an individual questionnaire, which each household member is intended to answer. Furthermore beginning with 1997, there are wave-specific $LELA files (Lebenslauf - engl. life course) containing the biography information as collected in the respective year.
 
-
 **Life History**
 
 .. figure:: png/lebenslaufperspektive_eng.PNG
