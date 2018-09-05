@@ -1,0 +1,74 @@
+Contents of SOEPcore and SOEPlong
+*********************************
+
+The SOEP started in 1984 as a longitudinal survey of private households in the Federal Republic of Germany. The central aim then and now is to collect representative micro-data to measure stability and change in living conditions by following a micro-economic approach enriched with variables from sociology and political science (influenced by the “Social Indicator” movement). Therefore the central survey instruments are a houeshold questionnaire, which is responded by the head of a household and an individual questionnaire, which each household member is intended to answer. Furthermore beginning with 1997, there are wave-specific $LELA files (Lebenslauf - engl. life course) containing the biography information as collected in the respective year.
+
+A rather stable set of core questions is asked every year covering the most essential areas of interest of the SOEP:
+
+- population and demography
+- education, training, and qualification
+- labor market and occupational dynamics
+- earnings, income and social security
+- housing
+- health
+- household production
+- preferences and values
+- satisfaction with life in general and certain aspects of life.
+
+Inhalt der Erhebungsinstrumente
+===============================
+
+Standardinstrumente
+-------------------
+
+.. csv-table::
+   :header-rows: 1
+   :file: csv/standardinstrumente.csv
+
+Biografische Instrumente
+------------------------
+
+.. csv-table::
+   :header-rows: 1
+   :file: csv/biografische_instrumente.csv
+
+Schüler und Frühe Jugend
+------------------------
+
+.. csv-table::
+    :header-rows: 1
+    :file: csv/schueler_fruehejugend.csv
+
+Mutter-Kind Instrumente
+-----------------------
+
+.. csv-table::
+    :header-rows: 1
+    :file: csv/muki.csv
+
+Zusatzinstrumente
+-----------------
+
+csv-table::
+header: "Questionnaire", "Content", "Availability", "Respondent"
+file: csv/zusatzinstrumente.csv
+
+Additionally, yearly topical modules enhance the basic information in (at least) one of these areas by asking detailed questions These modules for the main part appear in the personal questionnaires; only some of them are additions to the household questionnaire. Starting in the year 2001, the data have become even richer by including several different health measures and well-known psychological concepts as well as age specific questionnaires.
+
+Replikationskalender
+--------------------
+
+.. figure:: png/replikation.PNG
+    :align: center
+
+.. csv-table::
+   :header-rows: 1
+   :file: csv/replikation_hh.csv
+
+Lebenslaufperspektive
+---------------------
+.. figure:: png/lebenslaufperspektive.PNG
+    :align: center
+	
+Im Idealfall kann man Personen eines SOEP-Haushalts von der Geburt bis ins Erwachsenenalter verfolgen. Die verschiedenen Lebenslaufphasen lassen sich anhand unserer Fragebögen sehr gut abdecken. Die Planungsphase wird von einer spezifischen Frage im Jugend-und Personenfragebogen abgedeckt. Die Frage im Personenfragebogen zielt darauf ab, wie wichtig es einer Person ist ein Kind zu haben. Im Jugendfragbogen geht es um die Wahrscheinlichkeit, zukünftig ein oder mehrere Kinder haben zu wollen. 
+Die **Mutter-Kind-Fragebögen A – C** (Kinder von 0 – 6 Jahren), welche vorzugsweise von der Mutter ausgefüllt werden sollen, decken die fötale Phase, die Geburt des Kindes und die Vorschule ab. Sobald das Kind das Grundschulalter erreicht hat, füllen beide Elternteile den **Eltern-Kind-Fragebogen** aus. Der letzte Fragebogen den die die Mutter ausfüllen soll ist der **Mutter-Kind-Fragebogen E**. Zu diesem Zeitpunkt ist das Kind zwischen 9 und 10 Jahre alt. Der erste Fragebogen, den das Kind alleine ausfüllen kann (vorausgesetzt die Einverständniserklärung der Eltern liegt vor) ist der **Schülerfragebogen**. Dieser deckt das letzte Jahr der Grundschule ab. Mit Eintritt in die Sekundarstufe bekommt das Kind den **„Frühe Jugend“-Fragebogen**. Zum Ende der Sekundarstufe wird dem/der Jugendlichen der **Jugendfragebogen** ausgehändigt. Sobald das 18. Lebensjahr erreicht ist, bekommt jede Person eines SOEP-Haushalts den Personenfragebogen, der Haushaltsvorstand zusätzlich den Haushaltsfragebogen. Sobald eine Person verstirbt, unabhängig davon, ob diese Person Teil eines SOEP-Haushaltes ist, wird der Fragebogen für verstorbene Personen der Auskunft gebenden Person ausgehändigt. Es kann aber auch vorkommen, dass bei der Ziehung einer Person der (Ehe)Partner im Voraus gestorben ist und die befragte Person spezifische Fragen im Personenfragebogen dazu beantwortet. 

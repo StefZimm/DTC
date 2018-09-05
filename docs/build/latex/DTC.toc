@@ -1,0 +1,88 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Contents of SOEPcore}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}SOEP Topics}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Attitudes, Values and Personality}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Demography and Population}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Education and Qualification}{2}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Family and Social Networks}{3}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Home, Amenities and Contributions of Private HH}{3}{subsection.1.1.5}
+\contentsline {subsection}{\numberline {1.1.6}Health and Care}{3}{subsection.1.1.6}
+\contentsline {subsection}{\numberline {1.1.7}Integration, Migration, Transnationalization}{4}{subsection.1.1.7}
+\contentsline {subsection}{\numberline {1.1.8}Income, Taxes and Social Security}{4}{subsection.1.1.8}
+\contentsline {subsection}{\numberline {1.1.9}Survey Methodology}{4}{subsection.1.1.9}
+\contentsline {subsection}{\numberline {1.1.10}Time Use and Environmental Behavior}{5}{subsection.1.1.10}
+\contentsline {subsection}{\numberline {1.1.11}Work and Employment}{5}{subsection.1.1.11}
+\contentsline {section}{\numberline {1.2}SOEP Questionnaires}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Household Questionnaire}{6}{subsection.1.2.1}
+\contentsline {subsubsection}{Stable content}{6}{subsubsection*.3}
+\contentsline {subsubsection}{Replication Calendar Household Questionnaire}{8}{subsubsection*.4}
+\contentsline {subsection}{\numberline {1.2.2}Individual Questionnaire}{10}{subsection.1.2.2}
+\contentsline {subsubsection}{Stable content}{10}{subsubsection*.5}
+\contentsline {subsubsection}{Replication Calendar Individual Questionnaire}{12}{subsubsection*.6}
+\contentsline {subsection}{\numberline {1.2.3}Biography Questionnaire}{18}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Mother-Child Instruments}{19}{subsection.1.2.4}
+\contentsline {subsubsection}{Mother-Child Questionnaire A (Age 0-1)}{19}{subsubsection*.7}
+\contentsline {subsubsection}{Mother-Child Questionnaire B (Age 2-3)}{20}{subsubsection*.8}
+\contentsline {subsubsection}{Mother-Child Questionnaire C (Age 5-6)}{20}{subsubsection*.9}
+\contentsline {subsubsection}{Parents Questionnaire D (Age 7-8)}{21}{subsubsection*.10}
+\contentsline {subsubsection}{Mother-Child Questionnaire E (Age 9-10)}{21}{subsubsection*.11}
+\contentsline {subsection}{\numberline {1.2.5}Youth Instruments}{22}{subsection.1.2.5}
+\contentsline {subsubsection}{Pupils Questionnaire}{22}{subsubsection*.12}
+\contentsline {subsubsection}{Early Youth Questionnaire}{23}{subsubsection*.13}
+\contentsline {subsubsection}{Youth Questionnaire}{24}{subsubsection*.14}
+\contentsline {subsubsection}{\IeC {\quotedblbase }Lust auf DJ\IeC {\textquotedblleft } (Denksport und Jugend) Questionnaire}{25}{subsubsection*.15}
+\contentsline {subsection}{\numberline {1.2.6}Additional Instruments}{25}{subsection.1.2.6}
+\contentsline {subsubsection}{\IeC {\quotedblbase }L\IeC {\"u}cke\IeC {\textquotedblleft } Questionnaire - Re-questioning of the Individual Questionnaire (Summary)}{25}{subsubsection*.16}
+\contentsline {subsubsection}{Deceased Persons Questionnaire}{25}{subsubsection*.17}
+\contentsline {subsubsection}{Gripping Strength Test}{26}{subsubsection*.18}
+\contentsline {subsection}{\numberline {1.2.7}IAB-SOEP-Migrationsstichprobe}{26}{subsection.1.2.7}
+\contentsline {subsubsection}{Personal Biography Questionnaire (New Respondents)}{26}{subsubsection*.19}
+\contentsline {subsubsection}{Individual Questionnaire (Reinterviewed)}{27}{subsubsection*.20}
+\contentsline {subsubsection}{Youth Questionnaire}{27}{subsubsection*.21}
+\contentsline {subsubsection}{Household Questionnaire}{27}{subsubsection*.22}
+\contentsline {subsection}{\numberline {1.2.8}IAB-BAMF-SOEP-Befragung von Gefl\IeC {\"u}chteten}{28}{subsection.1.2.8}
+\contentsline {subsubsection}{Personal Biography Questionnaire (New Respondents)}{28}{subsubsection*.23}
+\contentsline {chapter}{\numberline {2}Target Population and Samples}{30}{chapter.2}
+\contentsline {section}{\numberline {2.1}The SOEP Samples in Detail}{30}{section.2.1}
+\contentsline {section}{\numberline {2.2}Eligibility and Follow-up}{33}{section.2.2}
+\contentsline {section}{\numberline {2.3}Development of Sample Sizes}{34}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Starting Sample Size of the SOEP Samples}{35}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Cross-Sectional Development of Sample Size (Respondents) Cross-Sectional Development of}{36}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Longitudinal Development of the 1984 Population}{37}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}Survey Design}{38}{chapter.3}
+\contentsline {section}{\numberline {3.1}Survey Instruments}{38}{section.3.1}
+\contentsline {section}{\numberline {3.2}Survey Concepts}{38}{section.3.2}
+\contentsline {section}{\numberline {3.3}Survey Modes}{39}{section.3.3}
+\contentsline {section}{\numberline {3.4}Panel Care}{40}{section.3.4}
+\contentsline {chapter}{\numberline {4}Principles of Data Structure}{42}{chapter.4}
+\contentsline {section}{\numberline {4.1}Panel Data Analysis}{42}{section.4.1}
+\contentsline {section}{\numberline {4.2}Data Structure of SOEP-Core}{42}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Cross-sectional data files (CS)}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Data Structure in wide-format (wide)}{44}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Data Structure in long Format (long)}{44}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Data Structure in spell format (spell)}{44}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Data Sets SOEP-Core}{45}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Overview Data Sets}{49}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Tracking Data}{50}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Original Data}{51}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Survey Data}{53}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Generated Data}{53}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Spell Data}{58}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Labeling SOEP-Core}{59}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Labeling Scheme of Data Sets and Variables in SOEP-Core}{59}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Extended Variable Naming Conventions}{63}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Missing Conventions}{64}{subsection.4.4.3}
+\contentsline {chapter}{\numberline {5}Working with SOEP Data}{66}{chapter.5}
+\contentsline {section}{\numberline {5.1}Working with Tracking Data (PPFAD)}{66}{section.5.1}
+\contentsline {section}{\numberline {5.2}Generating a cross-section Data Set}{75}{section.5.2}
+\contentsline {section}{\numberline {5.3}Working with Migration Data (BIOIMMIG)}{83}{section.5.3}
+\contentsline {section}{\numberline {5.4}Generating a longitudinal Data Set}{92}{section.5.4}
+\contentsline {section}{\numberline {5.5}Longitudinal Data Analysis}{103}{section.5.5}
+\contentsline {section}{\numberline {5.6}Fixed Effects Estimation}{116}{section.5.6}
+\contentsline {section}{\numberline {5.7}Working with SOEP Regional Data}{129}{section.5.7}
+\contentsline {chapter}{\numberline {6}Working with SOEP Documentation}{138}{chapter.6}
+\contentsline {section}{\numberline {6.1}Variable Search with Questionnaires}{138}{section.6.1}
+\contentsline {section}{\numberline {6.2}Variable Search with paneldata.org}{140}{section.6.2}
+\contentsline {section}{\numberline {6.3}Topic Search with paneldata.org}{149}{section.6.3}
+\contentsline {section}{\numberline {6.4}Documentation of Generated Data}{156}{section.6.4}
+\contentsline {section}{\numberline {6.5}Syntax Generator on paneldata.org}{161}{section.6.5}
